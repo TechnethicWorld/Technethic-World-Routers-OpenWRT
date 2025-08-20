@@ -24,4 +24,4 @@ Here, we focus on networking, OpenWRT, and advanced embedded technologies, provi
 
 📄 **License:** MIT License  
 
-📬 **Contact:** Via [GitHub Issues](https://github.com/) or our [YouTube channel](https://www.youtube.com/channel/UCA0ote4b3QgFBbrMh8gl0dQ)
+📬 **Contact:** Via  our [YouTube channel](https://www.youtube.com/channel/UCA0ote4b3QgFBbrMh8gl0dQ)
